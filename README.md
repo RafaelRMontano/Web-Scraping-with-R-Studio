@@ -19,6 +19,8 @@ Example using Amazon reviews, but will work for most sites
         <li><a href="#xpath-method">Xpath Method</a></li>
         <li><a href="#rating">Rating</a></li>
       </ul>
+      <a href="#sentiment-analysis">Sentiment Analysis</a>
+      </ul>
   </ol>
 </details>
 
@@ -72,3 +74,6 @@ The star rating results show up as a number "out of 5 stars" and it would be bet
 <p align="center">
   <img src="./Img/Numeric.png" alt="Statoscope example" width="800">
 </p>
+
+## Sentiment Analysis
+In the bottom on the code you will see some code on doing sentiment analysis on the reviews. For a better understanding of what that is, refer to my [Twitter Scraping Guide](https://github.com/RafaelRMontano/R-Studio-Twitter-Scrape-Word-Cloud-and-Sentiment-Analysis) guide where I go a bit into how to do sentiment analysis on tweets.
